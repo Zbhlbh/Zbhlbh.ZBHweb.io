@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>原神,启动!</title>
+    <style>
+        body {
+            background-image: url('/ZBHweb.io/background.jpg'); /* 背景图片路径 */
+            background-repeat: no-repeat; /* 背景图片不重复 */
+            background-size: cover; /* 背景图片覆盖整个页面 */
+            background-position: center; /* 背景图片居中显示 */
+            background-attachment: fixed; /* 背景图片固定 */
+        }
+    </style>
+</head>
+<body>
+    <h1>
+        <font color="#FEFFFF"> 
+            原神
+        </font>
+    </h1>
+    <p>
+        <font color="#FEFFFF"> 
+        你说的没错但是原神是一款开放世界游戏，中间忘了，后面的忘了。
+        </font>
+    </p>
+    <a href="https://cn.bing.com/">
+        <img src="/ZBHweb.io/bing.jpeg" width="100" height="100" border="0" class="button-img">
+    </a>
+    <a href="http://www.baidu.com">
+        <img src="/ZBHweb.io/百度.jpg" width="100" height="100" border="0" class="button-img">
+    </a>
+    <a href="https://www.csdn.net/">
+        <img src="/ZBHweb.io/csdn.jpg" width="100" height="100" border="0" class="button-img">
+    </a>
+    <a href="https://www.bilibili.com/">
+        <img src="/ZBHweb.io/bilibili.jpg" width="100" height="100" border="0" class="button-img">
+    </a>
+    <a href="https://chatglm.cn/main/alltoolsdetail?lang=zh">
+        <img src="/ZBHweb.io/zpqy.png" width="100" height="100" border="0" class="button-img">
+    </a>
+    <a href="https://kimi.moonshot.cn/">
+        <img src="/ZBHweb.io/kimi.png" width="100" height="100" border="0" class="button-img">
+    </a>
+    <a href="https://fanyi.baidu.com/">
+        <img src="/ZBHweb.io/翻译.jpg" width="100" height="100" border="0" class="button-img">
+    </a>
+    <a href="https://www.cnki.net/">
+        <img src="/ZBHweb.io/cnki.jpg" width="100" height="100" border="0" class="button-img">
+    </a>
+</body>
+<html>
